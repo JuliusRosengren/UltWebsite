@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+Body {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+
+.Headline {
+    margin: 5rem;
+    font-size: 10vmin;
+}
+
+.Sidor {
+    margin: auto;
+    font: 100;
+}
